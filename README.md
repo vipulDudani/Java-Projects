@@ -15,7 +15,7 @@ The constructor of the class, EventRegistrationUI(), initializes the UI componen
 The ActionListener for the registerButton is implemented using an anonymous inner class, which defines the actionPerformed() method that is called when the registerButton is clicked. Inside this method, the values entered by the user in the TextFields and Choice are retrieved, and a registration output string is created and displayed in the TextArea.
 
 
-
+The main() method creates an instance of the EventRegistrationUI class, which in turn creates the UI window and displays it.
 
 The windowClosing event of the Frame is handled by adding a WindowAdapter with an anonymous inner class that defines the windowClosing() method. This method simply calls System.exit(0) to terminate the program when the window is closed.
 
