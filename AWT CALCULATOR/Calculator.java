@@ -10,18 +10,7 @@ public class Calculator {
         Frame f=new Frame("My First Frame");
 
 
-        Label l1=new Label("FIRST NUMBER");
-        Label l2=new Label("SECOND NUMBER");
-        Label l3=new Label("RESULT");
-
-        TextField t1=new TextField();
-        TextField t2=new TextField();
-        TextField t3=new TextField();
-
-        Button b1=new Button("add");
-        Button b2=new Button("sub");
-        Button b3=new Button("mul");
-        Button b4=new Button("div");
+        
 
         l1.setBounds(50,100,100,20);
         l2.setBounds(50,140,100,20);
