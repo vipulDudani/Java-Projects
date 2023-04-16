@@ -12,7 +12,7 @@ public class Calculator {
 
         Label l1=new Label("FIRST NUMBER");
         Label l2=new Label("SECOND NUMBER");
-        Label l3=new Label("RESULE");
+        Label l3=new Label("RESULT");
 
         TextField t1=new TextField();
         TextField t2=new TextField();
