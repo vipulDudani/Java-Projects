@@ -26,3 +26,30 @@ The windowClosing event of the Frame is handled by adding a WindowAdapter with a
 
 
 Overall, this code creates a simple UI for event registration with input fields for name, email, contact number, and student year, and a register button to submit the form and display the registration details in a TextArea.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AWT CALCULATOR 
+
+he simple calculator created using AWT (Abstract Windowing Toolkit) in Java is a standalone application that provides a graphical user interface (GUI) for performing basic arithmetic operations such as addition, subtraction, multiplication, and division. 
+
+
+he simple calculator created using AWT (Abstract Windowing Toolkit) in Java is a standalone application that provides a graphical user interface (GUI) for performing basic arithmetic operations such as addition, subtraction, multiplication, and division. 
+
+
