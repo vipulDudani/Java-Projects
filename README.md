@@ -42,20 +42,38 @@ Overall, this code creates a simple UI for event registration with input fields 
 
 AWT CALCULATOR 
 
+
+
+
 ![add](https://user-images.githubusercontent.com/128981674/232272077-fdac2d9d-c8f3-4f73-94a4-0f7ab830322d.PNG)
 
 
+
+
+
 he simple calculator created using AWT (Abstract Windowing Toolkit) in Java is a standalone application that provides a graphical user interface (GUI) for performing basic arithmetic operations such as addition, subtraction, multiplication, and division. 
+
+
+
 
 ![sub](https://user-images.githubusercontent.com/128981674/232272081-06fb1355-8c86-4b0d-8eca-a96003ea45eb.PNG)
 
 
 
+
 he simple calculator created using AWT (Abstract Windowing Toolkit) in Java is a standalone application that provides a graphical user interface (GUI) for performing basic arithmetic operations such as addition, subtraction, multiplication, and division. 
+
 
 ![mul](https://user-images.githubusercontent.com/128981674/232272082-b995e657-c221-485a-873f-61f3103607fb.PNG)
 
 
+
+
 Overall, the simple calculator created using AWT in Java provides a basic example of how to create a graphical calculator application using Java's AWT library, which allows for user-friendly input and output for performing arithmetic operations.
+
+
+![div](https://user-images.githubusercontent.com/128981674/232272093-c7df28bd-81ec-4c0e-a3e3-28ab0b8ca4df.PNG)
+
+
 
 
