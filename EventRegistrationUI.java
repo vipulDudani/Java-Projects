@@ -1,5 +1,3 @@
-import java.awt.*;
-import java.awt.event.*;
 
 public class EventRegistrationUI {
     private Frame frame;
