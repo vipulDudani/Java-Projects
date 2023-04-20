@@ -7,7 +7,6 @@ The UI components are declared as private instance variables, including a Frame 
 The constructor of the class, EventRegistrationUI(), initializes the UI components and sets their properties, such as font size, background color, and event listeners. It also creates a panel to hold the form components using a GridLayout.
 
 
-
 ![dadaas](https://user-images.githubusercontent.com/128981674/231796702-eb656455-5b95-4180-ac63-356528f36d33.PNG)
 
 
@@ -32,9 +31,6 @@ Overall, this code creates a simple UI for event registration with input fields 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
 
 
 
