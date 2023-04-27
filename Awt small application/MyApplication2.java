@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
-public class MyApplication extends Frame {
+public class MyApplication2 extends Frame {
 
     public MyApplication() {
         Button button = new Button("Click me!");
