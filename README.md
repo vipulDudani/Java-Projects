@@ -1,3 +1,4 @@
+This code is a Java program that creates a simple user interface (UI) for event registration using AWT (Abstract Window Toolkit) components. The UI consists of a window with a form for users to enter their name, email, contact number, and student year, and a register button to submit the form.
 
 Here is a brief overview of the code:
 
