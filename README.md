@@ -10,7 +10,6 @@ The constructor of the class, EventRegistrationUI(), initializes the UI componen
 ![dadaas](https://user-images.githubusercontent.com/128981674/231796702-eb656455-5b95-4180-ac63-356528f36d33.PNG)
 
 
-
 The main() method creates an instance of the EventRegistrationUI class, which in turn creates the UI window and displays it.
 
 The windowClosing event of the Frame is handled by adding a WindowAdapter with an anonymous inner class that defines the windowClosing() method. This method simply calls System.exit(0) to terminate the program when the window is closed.
