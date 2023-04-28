@@ -11,7 +11,6 @@ The constructor of the class, EventRegistrationUI(), initializes the UI componen
 
 
 
-
 The main() method creates an instance of the EventRegistrationUI class, which in turn creates the UI window and displays it.
 
 The windowClosing event of the Frame is handled by adding a WindowAdapter with an anonymous inner class that defines the windowClosing() method. This method simply calls System.exit(0) to terminate the program when the window is closed.
@@ -26,8 +25,6 @@ Overall, this code creates a simple UI for event registration with input fields 
 
 
 
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -35,11 +32,7 @@ Overall, this code creates a simple UI for event registration with input fields 
 AWT CALCULATOR
 
 
-
-
 ![add](https://user-images.githubusercontent.com/128981674/232272077-fdac2d9d-c8f3-4f73-94a4-0f7ab830322d.PNG)
-
-
 
 
 
@@ -47,9 +40,7 @@ he simple calculator created using AWT (Abstract Windowing Toolkit) in Java is a
 
 
 
-
 ![sub](https://user-images.githubusercontent.com/128981674/232272081-06fb1355-8c86-4b0d-8eca-a96003ea45eb.PNG)
-
 
 
 
@@ -60,12 +51,10 @@ he simple calculator created using AWT (Abstract Windowing Toolkit) in Java is a
 
 
 
-
 Overall, the simple calculator created using AWT in Java provides a basic example of how to create a graphical calculator application using Java's AWT library, which allows for user-friendly input and output for performing arithmetic operations.
 
 
 ![div](https://user-images.githubusercontent.com/128981674/232272093-c7df28bd-81ec-4c0e-a3e3-28ab0b8ca4df.PNG)
-
 
 
 
