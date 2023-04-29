@@ -18,4 +18,5 @@ public class MyApplication2 extends Frame {
     public static void main(String[] args) {
         new MyApplication();
     }
+    
 }
