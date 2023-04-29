@@ -15,8 +15,6 @@ public class MyApplication2 extends Frame {
         setVisible(true);
     }
 
-    public static void main(String[] args) {
-        new MyApplication();
-    }
+    
 
 }
