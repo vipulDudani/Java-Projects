@@ -6,7 +6,6 @@ The UI components are declared as private instance variables, including a Frame 
 
 The constructor of the class, EventRegistrationUI(), initializes the UI components and sets their properties, such as font size, background color, and event listeners. It also creates a panel to hold the form components using a GridLayout.
 
-
 ![dadaas](https://user-images.githubusercontent.com/128981674/231796702-eb656455-5b95-4180-ac63-356528f36d33.PNG)
 
 
@@ -32,7 +31,6 @@ AWT CALCULATOR
 
 
 ![add](https://user-images.githubusercontent.com/128981674/232272077-fdac2d9d-c8f3-4f73-94a4-0f7ab830322d.PNG)
-
 
 
 he simple calculator created using AWT (Abstract Windowing Toolkit) in Java is a standalone application that provides a graphical user interface (GUI) for performing basic arithmetic operations such as addition, subtraction, multiplication, and division. 
