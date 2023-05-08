@@ -1,0 +1,55 @@
+import javax.swing.*;
+import javax.swing.event.MenuEvent;
+import javax.swing.event.MenuListener;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class SwingApplicationn {
+
+    public static void main(String[] args) {
+
+        JFrame f=new JFrame();
+
+        JMenuBar mb=new JMenuBar();
+        mb.setBounds(0,0,400,20);
+        JMenu file=new JMenu("file");
+        JMenuItem m2=new JMenuItem("open");
+        JMenu m3=new JMenu("submenu");
+        JMenuItem m4=new JMenuItem("submenu1");
+        JMenuItem m1=new JMenuItem("new");
+        JMenuItem m5=new JMenuItem("submenu2");
+
+        mb.add(file);
+        file.add(m1);
+        file.add(m2);
+        file.add(m3);
+        f.add(mb);
+        m3.add(m4);
+        m3.add(m5);
+
+
+        file.addMenuListener(new MenuListener() {
+            @Override
+            public void menuSelected(MenuEvent e) {
+                JOptionPane.showMessageDialog(f, "file is clicked");
+            }
+
+            @Override
+            public void menuDeselected(MenuEvent e) {
+
+            }
+
+            @Override
+            public void menuCanceled(MenuEvent e) {
+
+            }
+        });
+
+
+                f.setLayout(null);
+        f.setSize(400,300);
+        f.setVisible(true);
+
+    }
+}
